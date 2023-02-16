@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site" : "meg-goforth-harmon-portfolio",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
